@@ -9,6 +9,7 @@
 * [Programming](/talk-abstracts.md#programming-talks)
 * [Culture](/talk-abstracts.md#culture-talks)
 * [Cloud & Platform Engineering](/talk-abstracts.md#cloud)
+* [url=https://fixmyspeaker.org/]fix my speaker[/url]
 
 <hr/>
 
